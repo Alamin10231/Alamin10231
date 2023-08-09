@@ -1,7 +1,7 @@
 ![alamin](https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/348557742_2259964191059067_4091290513986343519_n.jpg?stp=dst-jpg_s960x960&_nc_cat=101&ccb=1-7&_nc_sid=300f58&_nc_eui2=AeEp7aqVlHri5my5-JgKxBB9vteXJ4bN7ge-15cnhs3uBxxR9ZMnRuT_zpKldP-b3ykg85bd-45s3rZkUYNMYh0h&_nc_ohc=duH8NLSV7JMAX9m7cSx&_nc_ht=scontent.fdac41-1.fna&oh=00_AfBFlufg4ftxQa7guNIdEZlfPOomuCoK1BCJ_Ee-9f8znQ&oe=64D83BFF)
 
-### Hi there 👋, i'm Alamin Hossain
-#### alamin
+# Hi there 👋, i'm Alamin Hossain
+## alamin
 
 
 I'm a self-taught passionate FrontEnd developer from India 🇮🇳
