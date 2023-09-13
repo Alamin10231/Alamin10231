@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/banner.png
+
 
 # Hi there 👋, i'm Alamin Hossain
 ## alamin
