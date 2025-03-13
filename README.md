@@ -1,3 +1,8 @@
+<p align="center">
+  <img height="300" src="https://github.ccom/Alamin10231/Alamin102313/blob/main/github-header-image.png" alt="logo" style="width:100%;"/>
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Alamin</h1>
 <h2 aligh="left"> MERN Stack Developer</h2>
 <p align="left">MERN Stack Developer Hello!! I am Md. Alamin. I am a MERN Stack Developer with expertise in HTML5, CSS3, JavaScript, React.js, Node.js, Express.js, and MongoDB. I am passionate about building responsive and user-friendly web applications. I enjoy solving problems, writing clean code, and learning new technologies to enhance my skills every day.</p>
