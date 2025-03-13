@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alamin</h1>
-<h3 align="center">MERN Stack Developer Hello!! I am Md. Alamin. I am a MERN Stack Developer with expertise in HTML5, CSS3, JavaScript, React.js, Node.js, Express.js, and MongoDB. I am passionate about building responsive and user-friendly web applications. I enjoy solving problems, writing clean code, and learning new technologies to enhance my skills every day.</h3>
+<p align="center">MERN Stack Developer Hello!! I am Md. Alamin. I am a MERN Stack Developer with expertise in HTML5, CSS3, JavaScript, React.js, Node.js, Express.js, and MongoDB. I am passionate about building responsive and user-friendly web applications. I enjoy solving problems, writing clean code, and learning new technologies to enhance my skills every day.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alamin10231&label=Profile%20views&color=0e75b6&style=flat" alt="alamin10231" /> </p>
 
