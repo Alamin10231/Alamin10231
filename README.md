@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="300"style="object-fit: cover;" src="https://github.com/alamin10231/alamin10231/blob/main/github-header.png.png" alt="logo" style="width:100%;"/>
+  <img height="300"style="object-fit: cover;" src="https://github.com/alamin10231/alamin10231/blob/main/github-header.png" alt="logo" style="width:100%;"/>
 </p>
 
 
