@@ -13,7 +13,7 @@
 <p align="left">MERN Stack Developer Hello!! I am Md. Alamin. I am a MERN Stack Developer with expertise in HTML5, CSS3, JavaScript, React.js, Node.js, Express.js, and MongoDB. I am passionate about building responsive and user-friendly web applications. I enjoy solving problems, writing clean code, and learning new technologies to enhance my skills every day.</p>
 ### 🌍 I'm based in Dhaka, Bangladesh  
 <br>
-🖥️ See my portfolio at [Alamin's Portfolio](https://inspiring-starlight-370b31.netlify.app/) 
+🖥️ See my portfolio at(https://alaminhossainportfolio.netlify.app/) 
 <br>
 ✉️ You can contact me at **alamin3636md@gmail.com**
 <br>
