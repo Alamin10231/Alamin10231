@@ -1,6 +1,9 @@
-<p align="center">
-  <img height="300"style="object: cover;" src="https://github.com/alamin10231/alamin10231/blob/main/github-header.png" alt="logo" style="width:100%;"/>
+<p align="center" style="margin: 0; padding: 0;">
+  <img src="https://github.com/alamin10231/alamin10231/blob/main/github-header.png" 
+       alt="logo" 
+       style="width: 100%; height: 300px; object-fit: cover; display: block; margin: 0 auto;"/>
 </p>
+
 
 
 <h1 align="center">Hi 👋, I'm Alamin</h1>
