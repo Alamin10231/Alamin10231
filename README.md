@@ -1,8 +1,15 @@
-<p align="center" style="margin: 0; padding: 0;">
-  <img src="https://github.com/alamin10231/alamin10231/blob/main/github-header.png" 
-       alt="logo" 
-       style="width: 100%; height: 300px; object-fit: cover; display: block; margin: 0 auto;"/>
-</p>
+<div style="display: flex; align-items: center; justify-content: space-between; background-color: #04344d; padding: 20px; border-radius: 10px;">
+  <div style="color: white;">
+    <h1 style="margin: 0;">YOUR NAME</h1>
+    <p style="margin: 5px 0;">YOUR DESIGNATION</p>
+    <p style="margin: 5px 0;">Your Contact Info</p>
+  </div>
+  
+  <div style="width: 200px; height: 200px; border-radius: 50%; overflow: hidden; border: 5px solid white;">
+    <img src="your-image.jpg" alt="Profile" style="width: 100%; height: 100%; object-fit: cover;">
+  </div>
+</div>
+
 
 
 
